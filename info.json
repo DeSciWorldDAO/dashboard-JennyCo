@@ -1,1 +1,35 @@
+{"name":"JennyCo",
+"tokenSymbol":"",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"The JennyCo founders bring together many years of experience in Al, genetic medicine and algorithmic trading. Major companies are already buying and selling your data mostly without your knowledge or consent. JennyCo's intends to address this by putting you in complete control of your data, putting more money in your pocket and giving you personalized health insights.",
+"whitePaperLink":"https://jennyco.com/wp-content/uploads/2023/02/JennyCoWhite-V21-MN-2.1.2023.pdf",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/TvovcgT.jpg",
+       "source": "image",
+       "link": "https://medium.com/@jennycosocial/"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": " https://i.imgur.com/XCA4k62.jpg",
+       "source": "image",
+       "link": " https://www.jennyco.com"}
+],
+"deleted":false,
+"primaryColor":"#fc901e",
+"twitterHandle":"@Jennycoinc",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://i.imgur.com/i3gGxlp.jpg",
+"telegramLink":"",
+"discordLink":"https://t.me/JennyCoOfficial",
+"website":"https://www.jennyco.com",
+"tokenDescription":"",
+"tokenTradeLink":"",
+
+"tags":["Science DeFi", "Biopharma", "Ecosystems"]
+  
+}
+  
 
